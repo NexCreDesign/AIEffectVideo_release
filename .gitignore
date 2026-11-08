@@ -1,0 +1,14 @@
+# 프로그램·소스 zip은 git에 넣지 않고 GitHub Releases에 첨부한다 (100MB 제한, 저장소 크기)
+# releases/ 폴더의 zip은 package.ps1이 복사해 둔 것 — Release 페이지에 올릴 때 여기서 고른다
+*.zip
+*.msix
+*.exe
+*.dll
+*.cer
+
+# OS / 에디터
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
