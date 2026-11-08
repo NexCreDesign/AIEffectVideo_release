@@ -24,7 +24,8 @@ Get the latest version from the **[Releases page](https://github.com/NexCreDesig
 ## How to run
 
 1. Download `EffectVideo-<version>.zip`.
-2. Unzip it to a folder you will keep, for example `C:\Tools\EffectVideo-1.0.0`. There is nothing to install.
+2. Unzip it to a folder you will keep, for example `C:\Tools`. The zip already contains a folder named `EffectVideo-<version>`, so you get `C:\Tools\EffectVideo-<version>`. There is nothing to install.
+   - In the Windows **Extract All** window, enter only `C:\Tools` as the destination. If the destination ends with `EffectVideo-<version>`, you get that folder twice, one inside the other.
 3. Double-click `effect_video.exe` in that folder.
    - If a blue **"Windows protected your PC"** window appears, click **More info**, then **Run anyway**. It appears because the program is not code-signed yet.
 4. Press **F1** in the program to open the user guide.
