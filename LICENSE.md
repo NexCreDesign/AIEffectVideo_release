@@ -4,7 +4,7 @@
 
 ## 한국어
 
-**1. 사용권.** 이 소프트웨어는 판매되는 것이 아니라 사용권이 부여되는 것입니다. Daniel Han(이하 "게시자")은 사용자에게 이 소프트웨어의 무료판을 무료로 사용할 수 있는 비독점적 권리를 부여합니다.
+**1. 사용권.** 이 소프트웨어는 판매되는 것이 아니라 사용권이 부여되는 것입니다. NexCreDesign(이하 "게시자")은 사용자에게 이 소프트웨어의 무료판을 무료로 사용할 수 있는 비독점적 권리를 부여합니다.
 
 **2. 무료판.** 무료판은 기간 제한 없이 사용할 수 있으며, 내보낸 영상과 작업영상 화면에 워터마크가 들어갑니다.
 
@@ -34,7 +34,7 @@
 
 ## English
 
-**1. License.** This software is licensed, not sold. Daniel Han (the "Publisher") grants you a non-exclusive right to use the free edition of this software free of charge.
+**1. License.** This software is licensed, not sold. NexCreDesign (the "Publisher") grants you a non-exclusive right to use the free edition of this software free of charge.
 
 **2. Free edition.** The free edition has no time limit and puts a watermark on exported videos and on the work viewer.
 
