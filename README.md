@@ -6,6 +6,10 @@
 
 This repository is where the program is **downloaded**. The program's source code is not published here.
 
+## User guide
+
+Select a language at the [home page](https://nexcredesign.github.io/), or open the guide directly in [English](https://nexcredesign.github.io/help/en/index.html).
+
 ## Download
 
 Get the latest version from the **[Releases page](https://github.com/NexCreDesign/AIEffectVideo_release/releases/latest)**.

@@ -6,6 +6,10 @@
 
 이 저장소는 프로그램을 **내려받는 곳**입니다. 프로그램의 소스 코드는 여기에 공개하지 않습니다.
 
+## 사용 설명서
+
+사이트 [홈페이지](https://nexcredesign.github.io/)에서 언어에 맞는 도움말을 선택하거나, [한국어](https://nexcredesign.github.io/help/ko/index.html) 설명서 링크를 누르세요.
+
 ## 내려받기
 
 **[Releases 페이지](https://github.com/NexCreDesign/AIEffectVideo_release/releases/latest)**에서 최신 버전을 받으세요.
